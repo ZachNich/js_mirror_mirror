@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+}
+
+.container article {
+    flex: 1 0 50%;
+}
+
+#art__one {
+    border: 1px solid blue;
+}
+
+#art__two {
+    border: 1px solid red;
+}
